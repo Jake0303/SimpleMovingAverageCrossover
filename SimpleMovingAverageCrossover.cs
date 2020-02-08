@@ -67,7 +67,7 @@ namespace NinjaTrader.NinjaScript.Strategies
 				SetProfitTarget(CalculationMode.Currency, 100);
 				
 				//Set a stop loss for 50$
-				SetStopLoss(CalculateMode.Currency, 50);
+				SetStopLoss(CalculationMode.Currency, 50);
 
 			}
 		}
